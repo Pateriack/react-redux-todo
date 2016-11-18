@@ -13,4 +13,4 @@ Created using [React](https://facebook.github.io/react/) and [Redux](http://redu
 
 4. **npm start**
 
-![todo screenshot](/Pateriack/react-redux-todo/blob/screenshots/todo.PNG?raw=true)
+![todo screenshot](https://raw.githubusercontent.com/Pateriack/react-redux-todo/screenshots/todo.PNG)
