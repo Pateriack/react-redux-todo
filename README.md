@@ -1,6 +1,8 @@
 # TodoMVC React + Redux
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+Created using [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/), with CSS from [todomvc-app-css](https://github.com/tastejs/todomvc-app-css)
+
 ## Instructions
 
 1. **git clone https://github.com/Pateriack/react-redux-todo.git**
